@@ -1,0 +1,12 @@
+AWS Documentation for Installing Code Deploy Agent
+
+
+https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-install-linux.html
+
+
+Download the kplabs-repo.zip (contains the appspec.yml and scripts)
+
+
+https://www.mediafire.com/file/4d2wq6zuwpkc06c/kplabs-repo.zip/file 
+
+
